@@ -905,7 +905,7 @@ nav a:hover {
 	z-index: -11;
 }
 
-@media (max-height: 670px) {
+@media (max-height: 720px) {
 	.tree {
 		-webkit-transform: scale(0.8);
 		transform: scale(0.8);
